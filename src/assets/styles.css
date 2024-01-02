@@ -1,0 +1,11 @@
+/* styles.css */
+.custom-card {
+    width: 18rem;
+    border-radius: 25px;
+    border: 1px solid black;
+  }
+  
+  .card-image {
+    width: 20vw;
+  }
+  
